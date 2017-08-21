@@ -11,3 +11,21 @@ img
   border-radius: 100px;
   width: 150px;
 }
+#Contenedor
+{
+  font-family: helvetica;
+  font-size: 16px;
+}
+#Encabezado
+{
+  display: block;
+  margin: 0 auto;
+}
+.certificaciones
+{
+  list-style-type: upper-roman;
+}
+.enlace
+{
+  color: darkred;
+}
